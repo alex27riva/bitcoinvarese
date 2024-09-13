@@ -1,21 +1,23 @@
-# Bitcoin Varese
+# SatoshiSpritz Varese
 
-Welcome to the Bitcoin Varese website repository!
+Welcome to the satoshispritzvarese.it website repository!
 This project is a simple static website for a group of Bitcoin enthusiasts living around Varese.
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [SatoshiSpritz Varese](#satoshispritz-varese)
+  - [Table of Contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Getting Started
 
 To get started with this project, simply clone the repository:
 
 ```bash
-git clone https://github.com/alex27riva/bitcoin.varese.it
+git clone https://github.com/alex27riva/satoshispritzvarese.it
 ```
 
 After cloning, you can open the index.html file in a web browser to view the website locally.
